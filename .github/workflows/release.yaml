@@ -10,7 +10,7 @@ jobs:
         steps:
             -   uses: actions/checkout@v3
             -   run: rm -rf .github
-            -   run: mksquashfs raw/ x2t.raw
+            -   run: mksquashfs raw/ doconverter.raw
             -   name: '更新 Update release'
                 uses: zhanghengxin/git-release-private@ice
                 with:
@@ -18,4 +18,4 @@ jobs:
                     allow_override: true
                     gzip: false
                     tag: ${{ steps.get_version.outputs.VERSION }}
-                    files: ./x2t.raw
+                    files: ./doconverter.raw
