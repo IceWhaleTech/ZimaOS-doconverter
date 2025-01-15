@@ -3,7 +3,7 @@
  *
  * https://www.onlyoffice.com/
  *
- * Version: 8.0.0 (build:99)
+ * Version: 8.2.2 (build:22)
  */
 
 window.AscCommon=window.AscCommon||{};

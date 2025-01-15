@@ -3,7 +3,7 @@
  *
  * https://www.onlyoffice.com/
  *
- * Version: 8.0.0 (build:99)
+ * Version: 8.2.2 (build:22)
  */
 
 (function(window,undefined){window["AscCommon"].g_oChartStyles=window["AscCommon"]["g_oChartStyles"]||{};window["AscCommon"]["g_oChartStyles"]=window["AscCommon"].g_oChartStyles;window["AscCommon"].g_oStylesBinaries=window["AscCommon"]["g_oStylesBinaries"]||{};window["AscCommon"]["g_oStylesBinaries"]=window["AscCommon"].g_oStylesBinaries;window["AscCommon"].g_oColorsBinaries=window["AscCommon"]["g_oColorsBinaries"]||{};window["AscCommon"]["g_oColorsBinaries"]=window["AscCommon"].g_oColorsBinaries;

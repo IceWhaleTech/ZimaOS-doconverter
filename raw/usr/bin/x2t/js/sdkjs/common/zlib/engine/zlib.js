@@ -3,7 +3,7 @@
  *
  * https://www.onlyoffice.com/
  *
- * Version: 8.0.0 (build:99)
+ * Version: 8.2.2 (build:22)
  */
 
 (function(window,undefined){var printErr=undefined;var print=undefined;var fetch="undefined"!==typeof window?window.fetch:"undefined"!==typeof self?self.fetch:null;var getBinaryPromise=null;function internal_isLocal(){if(window.navigator&&window.navigator.userAgent.toLowerCase().indexOf("ascdesktopeditor")<0)return false;if(window.location&&window.location.protocol=="file:")return true;if(window.document&&window.document.currentScript&&0==window.document.currentScript.src.indexOf("file:///"))return true;

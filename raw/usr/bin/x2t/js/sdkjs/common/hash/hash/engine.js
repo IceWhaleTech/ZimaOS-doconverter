@@ -3,7 +3,7 @@
  *
  * https://www.onlyoffice.com/
  *
- * Version: 8.0.0 (build:99)
+ * Version: 8.2.2 (build:22)
  */
 
 (function(window,undefined){window["AscCommon"]=window.AscCommon=window["AscCommon"]||{};var charA="A".charCodeAt(0);var charZ="Z".charCodeAt(0);var chara="a".charCodeAt(0);var charz="z".charCodeAt(0);var char0="0".charCodeAt(0);var char9="9".charCodeAt(0);var charp="+".charCodeAt(0);var chars="/".charCodeAt(0);var char_break=";".charCodeAt(0);function decodeBase64Char(ch){if(ch>=charA&&ch<=charZ)return ch-charA+0;if(ch>=chara&&ch<=charz)return ch-chara+26;if(ch>=char0&&ch<=char9)return ch-char0+
